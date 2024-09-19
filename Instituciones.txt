@@ -1,4 +1,4 @@
-Código modular;Código de institución;Nombre de IE;Nivel / Modalidad;Tipo de Gestión;Dependencia;Director;Estado;Dirección de IE;Provincia;Distrito;Tipo de programa;Turno;Alumnos (Censo educativo);Docentes (Censo educativo);Secciones (Censo educativo)
+Códigomodular;Códigodeinstitución;NombredeIE;Nivel/Modalidad;TipodeGestión;Dependencia;Director;Estado;DireccióndeIE;Provincia;Distrito;Tipodeprograma;Turno;Alumnos(Censoeducativo);Docentes(Censoeducativo);Secciones(Censoeducativo)
 0437426;25622391;BERTOLT BRECHT;Secundaria;Privada;Particular;FLORES SURCO SEPHORA AVELINA;Activo;AVENIDA COLONIAL 2798;Lima;Lima;No aplica;Continuo sólo en la mañana;514;29;15
 0334656;22391925;0040 HIPOLITO UNANUE;Secundaria;Pública de gestión directa;Sector Educación;LOZANO GUERRA MARIA;Activo;AVENIDA ELVIRA GARCIA Y GARCIA S/N;Lima;Lima;No aplica;Continuo sólo en la mañana;1120;83;37
 0334730;22125044;PNP CAP. ALIPIO PONCE VASQUEZ;Secundaria;Pública de gestión directa;Otro sector público (FF.AA.);AMADO QUEVEDO JORGE LUIS;Activo;AVENIDA SEBASTIAN LORENTE 769;Lima;Lima;No aplica;Continuo sólo en la mañana;384;18;16
